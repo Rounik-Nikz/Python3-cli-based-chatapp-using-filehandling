@@ -62,4 +62,5 @@ to you such as:
 Print the instructions to understand the app thoroughly
 
 4] Exit:
-Exits the app```
+Exits the app
+```
